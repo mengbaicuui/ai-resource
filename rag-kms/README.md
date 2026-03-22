@@ -13,6 +13,7 @@
 | 03 | [LlamaIndex](./03-llamaindex.md) | LlamaIndex | RAG 与 Agent 框架 |
 | 04 | [Haystack](./04-haystack.md) | deepset | 开源 RAG 框架 |
 | 05 | [Notion AI](./05-notion-ai.md) | Notion | 知识库 AI Q&A |
+| 06 | [RAGFlow](./06-ragflow.md) | InfiniFlow | 深度文档理解、无限上下文 |
 
 ---
 
