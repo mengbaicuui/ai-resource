@@ -5,6 +5,7 @@
 ## 📚 目录
 
 - [coding](./coding/) - CLI 命令与编程知识
+- [agent](./agent/) - AI Coding Agent 调研报告
 
 ---
 
