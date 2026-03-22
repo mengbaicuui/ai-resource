@@ -16,6 +16,7 @@
 | 06 | [Replit Agent](./06-replit-agent.md) | Replit | 云端 IDE、一键部署 |
 | 07 | [Aider](./07-aider.md) | 开源 | CLI 工具、Git 原生 |
 | 08 | [JetBrains AI](./08-jetbrains-ai.md) | JetBrains | IDE 深度集成 |
+| 09 | [OpenCode](./09-opencode.md) | Anomaly | 开源、多形态、隐私优先 |
 
 ---
 
