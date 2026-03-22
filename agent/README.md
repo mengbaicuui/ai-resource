@@ -17,6 +17,7 @@
 | 07 | [Aider](./07-aider.md) | 开源 | CLI 工具、Git 原生 |
 | 08 | [JetBrains AI](./08-jetbrains-ai.md) | JetBrains | IDE 深度集成 |
 | 09 | [OpenCode](./09-opencode.md) | Anomaly | 开源、多形态、隐私优先 |
+| 10 | [Kiro](./10-kiro.md) | AWS | Spec驱动开发、Agent Hooks、终端优先 |
 
 ---
 
